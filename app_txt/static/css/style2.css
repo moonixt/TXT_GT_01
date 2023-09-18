@@ -1,0 +1,52 @@
+body {
+    background: black;
+    color: white;
+    font-family: "fantasy", "Helvetica Neue", Helvetica, sans-serif, "Helvetica Neue", Helvetica, sans-serif;
+
+
+}
+
+.container{
+    text-align: center;
+    padding: 250px;
+
+}
+
+.abertura{
+    text-align: center;
+    justify-content: center;
+    border: solid antiquewhite;
+    border-radius: 10px ;
+    justify-content: center;
+    margin:auto;
+    max-width:35%;
+}
+
+.menus{
+    display: flex;
+    margin: auto;
+    justify-content: center; 
+    border: solid antiquewhite;
+    border-radius: 10px ;
+    color: antiquewhite;
+    max-height: 50%;
+    max-width:30%;
+
+    }
+
+#m2{
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+.borda_esquerda{
+
+    border: solid red;
+    max-width: 23%;
+    height: 1000px;
+    justify-content: left;
+    text-align: center;
+    margin-top: auto;
+  
+}
